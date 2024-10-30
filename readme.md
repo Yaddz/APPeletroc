@@ -19,3 +19,5 @@ Com base no modelo conceitual, crie um script SQL para a estrutura de tabelas do
 13. Qual é o total de todos os produtos vendidos no sistema?
 14. Liste os clientes que realizaram mais de três compras.
 15. Exiba o total de vendas agrupado pelo status de cada pedido.
+
+As respostas estão no arquivo SQL
